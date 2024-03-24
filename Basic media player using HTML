@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML PURE MEDIA PLAYER PRACTICE</title>
+</head>
+<body>
+    <h1>Adding videos and audios</h1>
+    <h2>Videos of the day</h2>
+    <div>
+        <video width="150" src="video.mp4" controls></video>
+        <video width="150" src="video.mp4" controls></video>
+        <video width="150" src="video.mp4" controls></video>
+        <video width="150" src="video.mp4" controls></video>
+        <video width="150" src="video.mp4" controls></video>
+    </div>
+    <h2>Audio of the day</h2>
+    <audio src="audio.mp3" controls></audio>
+    <audio src="audio.mp3" controls></audio>
+    <audio src="audio.mp3" controls></audio>
+    <audio src="audio.mp3" controls></audio>
+    <audio src="audio.mp3" controls></audio>
+</body>
+</html>
